@@ -2,7 +2,7 @@
 **Senior Technical Writer | API Documentation | Content Strategy | Video Editing**  
 
 ## About Me  
-A Senior Technical Writer with **8+ years of experience** in content strategy, API documentation, UI documentation, and video content creation. Proficient in managing documentation websites, standardizing processes, and testing APIs. Skilled in integrating AI solutions into documentation to enhance user engagement.  
+A Senior Technical Writer with **9 years of experience** in content strategy, API documentation, UI documentation, and video content creation. Proficient in managing documentation websites, standardizing processes, and testing APIs. Skilled in integrating AI solutions into documentation to enhance user engagement.  
 
 📍 **[LinkedIn](https://www.linkedin.com/in/bharath-d-s-362287143/)**  
 📧 **Email:** mymailid.bharathds@gmail.com  
